@@ -1,5 +1,6 @@
 {
   "java.project.sourcePaths": [
-    "src/assets/css"
+    "src/assets/css",
+    "src/assets"
   ]
 }
